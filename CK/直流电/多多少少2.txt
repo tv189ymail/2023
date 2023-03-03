@@ -1,0 +1,140 @@
+{
+    "urls": [
+        {
+            "url": "
+https://agit.ai/butterfly/md/raw/branch/master/DC91gao.jpg",
+            "name": "💛高天流云 家庭版"
+        },
+        {
+            "url": "
+https://agit.ai/butterfly/md/raw/branch/master/DC92gao.jpg",
+            "name": "💛高天流云✘测试"
+        },
+{
+"url": "
+
+https://agit.ai/butterfly/md/raw/branch/master/DC92.jpg",
+"name": "💛本地包+在线 ✘测试↓↓"
+},
+
+{
+"url": "
+https://agit.ai/butterfly/md/raw/branch/master/DCK1.jpg",
+"name": "💛在线✱1号仓库"
+},
+{
+"url": "
+https://agit.ai/butterfly/md/raw/branch/master/DCK2.jpg",
+"name": "💛在线✱2号仓库"
+},
+{
+"url": "
+https://agit.ai/butterfly/md/raw/branch/master/zYGBHmax",
+"name": "💛月光宝盒max"
+},
+{
+"url": "
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/14e7e1f5-763a-4c2a-b991-68ba2f9bc377.jpg",
+"name": "💙欧歌1号主仓"
+},
+{
+"url": "
+https://gitcode.net/wzlyd1/00/-/raw/master/0.txt",
+"name": "🧡安卓哥1号仓"
+},
+{
+"url": "
+https://gitcode.net/wzlyd1/00/-/raw/master/1.txt",
+"name": "🧡安卓哥2号仓"
+},
+{
+"url": "
+https://gitcode.net/wzlyd1/00/-/raw/master/js_store",
+"name": "🧡安卓哥JS仓"
+},
+{
+"url": "
+https://gitcode.net/wzlyd1/00/-/raw/master/py_store", "name":"🧡安卓哥PY仓"
+},
+{
+"url": "
+https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/update_yuan.txt ",
+"name": "zzzlllmmm"
+},
+{
+"url": "
+https://agit.ai/66666/mao/raw/branch/master/00/xx/0.jpg",
+"name": "666666"
+},
+{
+"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+"name": "小苹果线路"
+},
+{
+"url": "http://000913.xyz/box/tv.json",
+"name": "公众号:〔源享家〕免费接口"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+"name": "〔云星日记〕线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+"name": "〔云星日记〕哔哩套餐线路"
+},
+{
+"url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+"name": "〔云星日记〕阿里套餐线路"
+},
+{
+"url": "http://刚刚.live/猫",
+"name": "猫TV主线"
+},
+{
+"url": "http://xn--4bra.live/猫",
+"name": "猫TV副线"
+},
+{
+"url": "https://raw.fastgit.org/hjcmcn/z/main/16.json",
+"name": "锦盒七七线路"
+},
+{
+"url": "https://gitcode.net/qq_33403597/tvys/-/blob/master/AA.json",
+"name": "多多TV线路"
+},
+{
+"url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+"name": "mmgit线路"
+},
+{
+"url": "https://agit.ai/1357712527/tvbox/raw/branch/master/STVBox.txt",
+"name": "1357712527线路"
+},
+{
+"url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json",
+"name": "zqk219线路"
+},
+{
+"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+"name": "佰欣园〔33〕线路"
+},
+        {
+            "url": "clan://localhost/dly/ygbh/plus/pro.json",
+            "name": "宝盒🐍🐍🐍"
+        },
+        {
+            "url": "clan://localhost/dly/2/xiaobai.json",
+            "name": "部分失效1"
+        },
+       
+        {
+            "url": "clan://localhost/dly/4/4.json",
+            "name": "部分失效2"
+        },
+       {
+            "url": "
+https://agit.ai/hu/hcr/raw/branch/master/99668.txt",
+            "name": "hu-hcr-99668乱"
+        }
+    ]
+}
