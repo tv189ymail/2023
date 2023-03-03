@@ -1,0 +1,17 @@
+{
+"alpn": "h3",
+"auth_str": "6yhy.com",
+"insecure": false,
+"protocol": "wechat-video",
+"server": "sg0.6yhy.top:20000",
+"server_name": "sg0.6yhy.top",
+"obfs": "",
+"up_mbps": 11,
+"down_mbps": 110,
+"socks5": {
+"listen": "127.0.0.1:10808"
+},
+"http": {
+"listen": "127.0.0.1:10809"
+}
+}
