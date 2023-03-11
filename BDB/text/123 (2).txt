@@ -1,0 +1,23 @@
+{ "urls": [{ "url": "https://神器每日推送.tk/pz.json", "name": "线路1" },
+
+{ "url": "http://饭太硬.ga/x/o.json", "name": "线路2" },
+
+{ "url": "http://肥猫.love", "name": "线路3" },
+
+ { "url": "https://源享家.ml/tv", "name": "线路4" },
+
+{ "url": "https://hutool.ml/tang", "name": "线路5" },
+
+{ "url": "http://home.jundie.top:81/top98.json", "name": "线路6" },
+
+{ "url": "https://tvbox.cainisi.cf", "name": "线路7" },
+
+{ "url": "https://dxawi.github.io/0/0.json", "name": "线路8" },
+
+{ "url": "https://raw.liucn.cc/box/m.json", "name": "线路9" },
+
+{ "url": "http://js.134584.xyz/json/pp87.json", "name": "线路10" },
+
+{ "url": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json", "name": "线路14"},
+
+{ "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json", "name": "线路12" }]}
