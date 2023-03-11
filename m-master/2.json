@@ -1,0 +1,86 @@
+{
+    "urls": [
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀巧记线路"
+        },         
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🍎小苹果〔多条线路〕"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "☁️云星家庭〔纯绿色家庭版〕"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "☁️终南干货"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "💖猫友️"
+        },
+        {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "💖影视酷"
+        },        
+        {
+            "url": "https://e40.cn/ygbh",
+            "name": "☃月光宝盒"
+        },
+        {
+            "url": "http://miaotvs.cn/osc",
+            "name": "✨太阳"
+        },                      
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "💨南风〔多条线路〕"
+        },   
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🤪神器推送〔多条线路〕"
+        },       
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "🌝dlgt7"
+        },   
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "dxawi"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "🍸老刘备〔多条线路〕"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "💨潇洒"
+        },
+        {
+            "url": "http://byyds.top/w.txt",
+            "name": "🐾猫群"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "🧗‍♀️乱世〔多条线路〕"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "📱小白1"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "📱小白2"
+        },
+        {
+            "url": "https://raw.fastgit.org/once678/looktv/main/tvbox8.json",
+            "name": "📱小白3"
+        }  
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}

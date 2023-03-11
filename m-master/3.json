@@ -1,0 +1,28 @@
+{ "urls": [
+{"name": "分享君接口",  
+ "url": "http://byyds.top/w.txt" },    
+{"name": "4K云盘接口",  
+ "url": "http://9xi4o.tk/0725.json" },    
+{"name": "乱世接口",  
+ "url": "http://www.dmtv.ml/mao/single.json" },   
+{"name": "太阳线路",  
+ "url": "http://111.67.196.181/mtv/meow.txt" },   
+{"name": "蚂蚁论坛接口",  
+ "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8" },     
+{"name": "月光宝盒接口",  
+ "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0  " }, 
+{"name": "道长T4接口",  
+ "url": "http://101.34.67.237/config/3" }, 
+{"name": "肥猫接口",  
+  "url": "https://xn--z7x900a.love/" },   
+{"name": "巧儿接口",  
+ "url": "http://pandown.pro/tvbox/tvbox.json"}
+ ], 
+ 
+       "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+} 
