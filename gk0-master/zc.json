@@ -1,0 +1,52 @@
+{
+  "urls": [
+
+        {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/dd.bmp",
+      "name": "dly一线"
+      }, 
+           
+    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/tz%20.json",
+      "name": "dly四线"
+    },
+         {
+            "url": "clan://localhost/Js/js.json",
+            "name": "要有道长本地包"
+        },
+       {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/1.bmp",
+      "name": "影视"
+    },
+     {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/3.bmp",
+      "name": "音乐"
+    },
+    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/4.bmp",
+      "name": "娱乐"
+    },
+    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/5.bmp",
+      "name": "哔哩"
+    },
+    
+    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/2.bmp",
+      "name": "体育"
+    },
+   
+    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/6.bmp",
+      "name": "学习"
+    },
+    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/7.bmp",
+      "name": "动漫"
+    },
+    {
+      "url": "https://agit.ai/gk0746/2/raw/branch/master/8.bmp",
+      "name": "其它"
+    }
+  ]
+}

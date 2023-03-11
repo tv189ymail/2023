@@ -1,0 +1,9 @@
+{
+  "storeHouse": 
+  [
+      {
+           "sourceName": "dly内置版",
+           "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/fj.txt"
+      }
+  ]
+}
