@@ -1,0 +1,19 @@
+#字节系 AD API SDK 屏蔽
+/zijieapi.*/
+/byteorge.*/
+/bytegoofy.*/
+/bytedance.*/
+/snssdk.*/
+/pangolin-sdk.*/
+/lf.fqnovel.*/
+/ad-sign.*/
+/fqnovelvod.*/
+/mgsdk-sign.*/
+||dig.bdurl.net^$important
+||activity-ag.awemeughun.com^$important
+||msync-im1-vip6-std.easemob.com^$important
+||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+||sf3-ttcdn-tos.pstatp.com^$important
+||sf3-fe-tos.pglstatp-toutiao.com^$important
+||skdisplay.jd.com^$important
+||settings.ttwebview.com^$important

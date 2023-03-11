@@ -1,0 +1,20 @@
+{
+	"libv":"http://123.56.222.84:2025/iphonex/libvio.php?url=",
+	"xxjx":"http://123.56.222.84:2025/iphonex/xinxin.php?url=",
+	"zxzj":"http://123.56.222.84:2025/iphonex/zxzj.php?url=",
+	"4kjx":"http://123.56.222.84:2025/iphonex/100.php?url=",
+	"jsjx":"http://123.56.222.84:2025/iphonex/100.php?url=",
+	"qqjx":"http://123.56.222.84:2025/iphonex/100.php?url=",
+	"qiyijx":"http://123.56.222.84:2025/iphonex/100.php?url=",
+	"rrjx":"http://123.56.222.84:2025/iphonex/400.php?url=",
+	"rxjx":"http://123.56.222.84:2025/iphonex/rongxing.php?url=",
+	"zbjx":"http://123.56.222.84:2025/iphonex/huya.php?id=",
+	"gqjx":"http://123.56.222.84:2025/iphonex/100.php?url=",
+	"mainurl":"https://alogin.oss-cn-beijing.aliyuncs.com/iphonex.json",
+	"appid":"10000",
+	"version":"2.3.0",
+	"headers":{
+		"host":"123.56.222.84:2025",
+		"User-Agent":"hahahha"	
+	}
+}
