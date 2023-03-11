@@ -1,0 +1,1099 @@
+{
+    "sites": [
+        {
+            "key": "py_kunyu77",
+            "name": "酷云七七",
+            "type": 3,
+            "api": "py_kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_kunyu77.py"
+        },
+        {
+            "key": "py_bilivd",
+            "name": "B站",
+            "type": 3,
+            "api": "py_bilivd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_bilivd.py"
+        },
+        {
+            "key": "py_bilibili2",
+            "name": "B站2",
+            "type": 3,
+            "api": "py_bilibili2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_bilibili2.py"
+        },
+        {
+            "key": "py_bilibili3",
+            "name": "B站直播1",
+            "type": 3,
+            "api": "py_bilibili3",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_bilibili3.py"
+        },
+        {
+            "key": "py_bilizb",
+            "name": "B站直播2",
+            "type": 3,
+            "api": "py_bilizb",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_bilizb.py"
+        },
+        {
+            "key": "py_3qu",
+            "name": "3QU",
+            "type": 3,
+            "api": "py_3qu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_3qu.py"
+        },
+        {
+            "key": "py_cctv",
+            "name": "央视",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_cctv.py"
+        },
+        {
+            "key": "py_xmly",
+            "name": "喜马拉雅FM",
+            "type": 3,
+            "api": "py_xmly",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_xmly.py"
+        },
+        {
+            "key": "py_jrskbs",
+            "name": "jrskbs1",
+            "type": 3,
+            "api": "py_jrskbs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_jrskbs.py"
+        },
+        {
+            "key": "py_yytv",
+            "name": "jrskbs2",
+            "type": 3,
+            "api": "py_yytv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_yytv.py"
+        },
+        {
+            "key": "py_qie",
+            "name": "企鹅体育",
+            "type": 3,
+            "api": "py_qie",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_qie.py"
+        },
+        {
+            "key": "py_czspp",
+            "name": "厂长",
+            "type": 3,
+            "api": "py_czspp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_czspp.py"
+        },
+        {
+            "key": "py_ikan",
+            "name": "爱看6",
+            "type": 3,
+            "api": "py_ikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_ikan.py"
+        },
+        {
+            "key": "py_libvio",
+            "name": "libvio",
+            "type": 3,
+            "api": "py_libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_libvio.py"
+        },
+        {
+            "key": "py_cyys",
+            "name": "创艺",
+            "type": 3,
+            "api": "py_cyys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_cyys.py"
+        },
+        {
+            "key": "py_lezhutv",
+            "name": "乐猪TV",
+            "type": 3,
+            "api": "py_lezhutv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_lezhutv.py"
+        },
+        {
+            "key": "py_zxzj",
+            "name": "在线之家",
+            "type": 3,
+            "api": "py_zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_zxzj.py"
+        },
+        {
+            "key": "py_voflix",
+            "name": "Voflix",
+            "type": 3,
+            "api": "py_voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_voflix.py"
+        },
+        {
+            "key": "py_bilimd",
+            "name": "B站影视",
+            "type": 3,
+            "api": "py_bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_bilimd.py"
+        },
+        {
+            "key": "py_gimytv",
+            "name": "剧迷",
+            "type": 3,
+            "api": "py_gimytv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_gimytv.py"
+        },
+        {
+            "key": "py_genmov",
+            "name": "跟剧",
+            "type": 3,
+            "api": "py_genmov",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_genmov.py"
+        },
+        {
+            "key": "py_huya",
+            "name": "虎牙",
+            "type": 3,
+            "api": "py_huya",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_huya.py"
+        },
+        {
+            "key": "py_douyu",
+            "name": "斗鱼",
+            "type": 3,
+            "api": "py_douyu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_douyu.py"
+        },
+        {
+            "key": "py_yixi",
+            "name": "一席",
+            "type": 3,
+            "api": "py_yixi",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_yixi.py"
+        },
+        {
+            "key": "py_freezb",
+            "name": "free直播",
+            "type": 3,
+            "api": "py_freezb",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/py_freezb.py"
+        },
+        {
+            "key": "py_cokemv",
+            "name": "COKE",
+            "type": 3,
+            "api": "py_cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_cokemv.py"
+        },
+        {
+            "key": "py_xmaomi",
+            "name": "猫咪",
+            "type": 3,
+            "api": "py_xmaomi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_xmaomi.py"
+        },
+        {
+            "key": "py_if101",
+            "name": "if101",
+            "type": 3,
+            "api": "py_if101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./py/py_if101.py"
+        },
+        {
+            "key": "py_gitcafe",
+            "name": "小纸条",
+            "type": 3,
+            "api": "py_gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./py/py_gitcafe.py"
+        },
+        {
+            "key": "py_yiso",
+            "name": "易搜",
+            "type": 3,
+            "api": "py_yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./py/py_yiso.py"
+        },
+        {
+            "key": "py_zhaozy",
+            "name": "找资源",
+            "type": 3,
+            "api": "py_zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./py/py_zhaozy.py"
+        },
+        {
+            "key": "py_alist",
+            "name": "Alist",
+            "type": 3,
+            "api": "py_alist",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./py/py_alist.py"
+        },
+        {
+            "key": "py_yunso",
+            "name": "up云搜",
+            "type": 3,
+            "api": "py_yunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./py/py_yunso.py"
+        },
+        {
+            "key": "py_pansou",
+            "name": "盘搜",
+            "type": 3,
+            "api": "py_pansou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./py/py_pansou.py"
+        },
+        {
+            "key": "py_mac",
+            "name": "阿里搜索",
+            "type": 3,
+            "api": "py_mac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/py/plugin/py_mac.py"
+        },
+        {
+            "key": "push_agent",
+            "name": "阿里",
+            "type": 3,
+            "api": "py_ali",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/py/py_ali.py"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://alitoken.kebedd69.repl.co/token.txt"
+        }
+    ],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "普通嗅探",
+            "type": 0,
+            "url": "",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "json嗅探",
+            "type": 1,
+            "url": "",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "风起江湖",
+            "type": 1,
+            "url": "http://45.248.10.163:4433/json.php?wap=0&url="
+        },
+        {
+            "name": "风起洛阳",
+            "type": 1,
+            "url": "https://k.json.icu/home/api?type=ys&uid=12406929&key=adgouwyCGIRSTUV046&url="
+        },
+        {
+            "name": "风起0",
+            "type": 1,
+            "url": "https://drpy.liucn.repl.co/parse/api/dyg.js?url="
+        },
+        {
+            "name": "风起1",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            },
+            "url": "https://m3u8.co/api/?type=app&key=HkxDBJ2n38eCRLmpYh&url="
+        },
+        {
+            "name": "风起2",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            },
+            "url": "https://m3u8.co/api/?type=app&key=TqMo2BRQF0WssvMjPe&url="
+        },
+        {
+            "name": "风起3",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            },
+            "url": "https://m3u8.co/api/?type=app&key=nz1wfqcwJHdBVJDtT2&url="
+        },
+        {
+            "name": "风起清河",
+            "type": 1,
+            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "风起吴郡",
+            "type": 1,
+            "url": "http://pandown.pro/app/kxjx.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "风起陈留",
+            "type": 1,
+            "url": "http://pandown.pro/app/ysmjx.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905",
+                    "优播线路",
+                    "腾播线路"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+        {
+            "name": "风起容县",
+            "type": 1,
+            "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+        },
+        {
+            "name": "风起陇西1",
+            "type": 0,
+            "url": "https://hxys.tv/bfq/?url="
+        },
+        {
+            "name": "风起长林2",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+        },
+        {
+            "name": "风起苍岚",
+            "type": 0,
+            "url": "https://play.fositv.com/?url="
+        },
+        {
+            "name": "风起边临",
+            "type": 1,
+            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
+        },
+        {
+            "name": "风起天阑",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url="
+        },
+        {
+            "name": "风起长安",
+            "type": 1,
+            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+        },
+        {
+            "name": "风起朔方",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="
+        },
+        {
+            "name": "风起零陵",
+            "type": 1,
+            "url": "https://player.movie09.com/dplayer/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "风起兖州",
+            "type": 0,
+            "url": "http://jx.gbxy.net.cn/?url="
+        },
+        {
+            "name": "风起巨鹿",
+            "type": 0,
+            "url": "https://h5.freejson.xyz/player/?url="
+        },
+        {
+            "name": "风起长垣",
+            "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "风起金陵",
+            "url": "https://jx.bynote.top/API.php?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "风起许都",
+            "type": 1,
+            "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "iqiyi",
+                    "奇艺",
+                    "爱奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "xigua",
+                    "西瓜",
+                    "sohu",
+                    "搜狐",
+                    "cntv",
+                    "cctv",
+                    "央视",
+                    "1905",
+                    "m1905"
+                ]
+            }
+        },
+        {
+            "name": "风起青州",
+            "type": 1,
+            "url": "http://150.158.175.250:88/parse/sign/6a1ce4c80b891d3b2a417ee19a44c0cf?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "风起兰溪",
+            "type": 1,
+            "url": "http://123.57.56.94:9931/lanlan/?url="
+        },
+        {
+            "name": "风起涂州",
+            "type": 1,
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "风起鄞州",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "leshi",
+                    "LS",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": ""
+                }
+            }
+        },
+        {
+            "name": "风起沧州",
+            "type": 1,
+            "url": "http://api.ckflv.cn/?url="
+        },
+        {
+            "name": "风起儋州",
+            "type": 1,
+            "url": "http://jx.vipmv.co/json.php?token=123457&url="
+        },
+        {
+            "name": "风起蓟州",
+            "type": 0,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
+            "name": "风起并州",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "letv",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili"
+    ],
+    "rules": [
+        {
+            "host": "www.6080dy1.com",
+            "rule": [
+                "m3u8.php",
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "default.365yg.com"
+            ]
+        },
+        {
+            "host": "www.agemys.cc",
+            "rule": [
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "zjmiao.com",
+            "rule": [
+                "play.videomiao.vip/API.php",
+                "time="
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "qianpailive.com",
+                "vid="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "douyin.com/aweme",
+                "video_id="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "huoshan.com",
+                "/item/video/"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
+            ]
+        }
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ],
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cDovL3pkaXIua2ViZWRkNjkucmVwbC5jby9wdWJsaWMvbGl2ZS50eHQ="
+                    ]
+                }
+            ]
+        }
+    ],
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "spider": "./jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"
+}
