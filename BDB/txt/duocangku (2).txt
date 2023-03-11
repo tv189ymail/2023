@@ -1,0 +1,16 @@
+{"urls":[
+{"sourceName":"zqk219","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/zqk19.json"},
+{"sourceName":"1号仓库","sourceUrl":"https://agit.ai/zhanghong/tvbox/raw/branch/master/1"},
+{"sourceName":"2号仓库","sourceUrl":"https://agit.ai/zhanghong/tvbox/raw/branch/master/2"},
+{"sourceName":"66666仓库","sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
+{"sourceName":"多多仓库","sourceUrl":"https://agit.ai/283119535/vip/raw/branch/master/tv/update_yuan"},
+{"sourceName":"5号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/5.txt"},
+{"sourceName":"6号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/6"},
+{"sourceName":"7号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/7"},
+{"sourceName":"8号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/%e8%80%81%e5%8f%b8%e6%9c%ba%e9%9b%86%e5%90%88.json"},
+{"sourceName":"9号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/9/tv/update_yuan"},
+{"sourceName":"10号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/10/tv/update_yuan"},
+{"sourceName":"11号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/11/tv/update_yuan"},
+{"sourceName":"12号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/12/tv/update_yuan"},
+{"sourceName":"13号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/13/tv/update_yuan"}
+]}
