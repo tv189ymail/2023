@@ -1,0 +1,12 @@
+{
+  "storeHouse": [
+    {
+    "sourceName": "⚠️请点下面⬇️",
+    "sourceUrl": "http://wp.anxwl.cn/down.php/2879eb17f3fedb747b62ce723c5df8ba.json"
+  },
+  {
+    "sourceName": "🍁优质在线仓库🍁",
+    "sourceUrl": "https://agit.ai/VivoMax/video/raw/branch/master/zxck.json"
+  }
+  ]
+}
