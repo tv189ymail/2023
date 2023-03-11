@@ -1,0 +1,716 @@
+//🇨🇳欧歌整合本接口
+{
+"wallpaper":"http://tv.nxog.top/api/api/t",
+"spider":"",
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lm54b2cudG9wL20vdHYvaW5kZXgxLnBocA=="]}]}],
+"sites": [
+
+{"key" : "drpy_js_榜单荐片1","name" : "榜单荐片❤更新:12/26❤","type" : 3,"api": "http://tv.nxog.top/m/js/drpy.js","ext": "http://tv.nxog.top/m/MaooXX/drpy.js"},
+
+
+    {
+		"key": "py_kunyu77",
+		"name": "Py | kunyu77",
+		"type": 3,
+		"api": "py_kunyu77",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_kunyu77.json"
+	    },
+    
+    	{
+            "key" : "py_youer",
+            "name" : "Py | 幼儿教育",
+            "type" : 3,
+            "api" : "py_youer",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_youer.json"
+        }, {
+            "key" : "py_xiaoxue",
+            "name" : "Py | 小学教育",
+            "type" : 3,
+            "api" : "py_xiaoxue",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_xiaoxue.json"
+        }, {
+            "key" : "py_czxx",
+            "name" : "Py | 初中教育",
+            "type" : 3,
+            "api" : "py_czxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_czxx.json"
+        }, {
+            "key" : "py_gaozxx",
+            "name" : "Py | 高中教育",
+            "type" : 3,
+            "api" : "py_gaozxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_gaozxx.json"
+        }, {
+            "key" : "py_xuqu1",
+            "name" : "Py | 戏曲专栏",
+            "type" : 3,
+            "api" : "py_xuqu1",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_xuqu1.json"
+        }, {
+            "key" : "py_TYjs",
+            "name" : "Py | 体育健身",
+            "type" : 3,
+            "api" : "py_TYjs",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_TYjs.json"
+        }, {
+            "key" : "py_xiangsh",
+            "name" : "Py | 相声小品",
+            "type" : 3,
+            "api" : "py_xiangsh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_xiangsh.json"
+        },  
+        {
+            "key" : "py_yanchh",
+            "name" : "Py | 歌手专辑",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_yanchh.json"
+        }, 
+        {
+            "key" : "py_MTV",
+            "name" : "Py | 歌曲MTV",
+            "type" : 3,
+            "api" : "py_MTV",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_MTV.json"
+        }, {
+            "key" : "py_Yinl2",
+            "name" : "Py | B站音乐",
+            "type" : 3,
+            "api" : "py_Yinl2",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_Yinl2.json"
+        }, 
+	
+
+	{
+            "key" : "py_cctv",
+            "name" : "Py | 央视法治",
+            "type" : 3,
+            "api" : "py_cctv",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctv.json"
+        }, {
+            "key" : "py_cctvdy",
+            "name" : "Py | 央视电影电视",
+            "type" : 3,
+            "api" : "py_cctvdy",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvdy.json"
+        }, {
+            "key" : "py_cctvjs",
+            "name" : "Py | 央视军事",
+            "type" : 3,
+            "api" : "py_cctvjs",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvjs.json"
+        }, {
+            "key" : "py_cctvkj",
+            "name" : "Py | 央视科教",
+            "type" : 3,
+            "api" : "py_cctvkj",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvkj.json"
+        }, {
+            "key" : "py_cctvny",
+            "name" : "Py | 央视农业",
+            "type" : 3,
+            "api" : "py_cctvny",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvny.json"
+        }, {
+            "key" : "py_cctvse",
+            "name" : "Py | 央视少儿",
+            "type" : 3,
+            "api" : "py_cctvse",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvse.json"
+        }, {
+            "key" : "py_cctvty",
+            "name" : "Py | 央视体育",
+            "type" : 3,
+            "api" : "py_cctvty",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvty.json"
+        }, {
+            "key" : "py_cctvxq",
+            "name" : "Py | 央视戏曲",
+            "type" : 3,
+            "api" : "py_cctvxq",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvxq.json"
+        }, {
+            "key" : "py_cctvxw",
+            "name" : "Py | 央视新闻",
+            "type" : 3,
+            "api" : "py_cctvxw",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvxw.json"
+        }, {
+            "key" : "py_cctvyy",
+            "name" : "Py | 央视音乐",
+            "type" : 3,
+            "api" : "py_cctvyy",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvyy.json"
+        }, {
+            "key" : "py_cctvzh",
+            "name" : "Py | 央视综合",
+            "type" : 3,
+            "api" : "py_cctvzh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvzh.json"
+        }, {
+            "key" : "py_cctvzy",
+            "name" : "Py | 央视综艺",
+            "type" : 3,
+            "api" : "py_cctvzy",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_cctvzy.json"
+        }, 
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    	{
+		"key": "py_lezhutv",
+		"name": "Py | 乐猪",
+		"type": 3,
+		"api": "py_lezhutv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_lezhutv.json"
+	},  
+   	{
+		"key": "py_cyys",
+		"name": "Py | 创艺",
+		"type": 3,
+		"api": "py_cyys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_cyys.json"
+	},
+	
+	{
+		"key": "py_wmkk",
+		"name": "Py | 完美看看(半残)",
+		"type": 3,
+		"api": "py_wmkk",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_wmkk.json"
+	},{
+		"key": "py_voflix",
+		"name": "Py | Voflix",
+		"type": 3,
+		"api": "py_voflix",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_voflix.json"
+	}, {
+		"key": "py_bilimd",
+		"name": "Py | B站影视",
+		"type": 3,
+		"api": "py_bilimd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_bilimd.json"
+	},  
+	 {
+		"key": "py_genmov",
+		"name": "Py | 跟剧",
+		"type": 3,
+		"api": "py_genmov",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_genmov.json"
+	}, 
+	            {
+            "key" : "py_yixi",
+            "name" : "Py | 一席话",
+            "type" : 3,
+            "api" : "py_yixi",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "http://tv.nxog.top/m/plugin/py_yixi.json"
+        },{
+		"key": "py_huya",
+		"name": "Py | 虎牙",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_huya.json"
+	}, {
+		"key": "py_douyu",
+		"name": "Py | 斗鱼",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_douyu.json"
+	}, {
+		"key": "py_cokemv",
+		"name": "Py | COKE",
+		"type": 3,
+		"api": "py_cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_cokemv.json"
+	}, {
+		"key": "py_xmaomi",
+		"name": "Py | 猫咪",
+		"type": 3,
+		"api": "py_xmaomi",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_xmaomi.json"
+	},
+   	
+	{
+		"key": "py_douban",
+		"name": "Py | 豆瓣",
+		"type": 3,
+		"api": "py_douban",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_douban.json"
+	}, 
+ 
+	{
+		"key": "py_freezb",
+		"name": "Py | 体育直播p",
+		"type": 3,
+		"api": "py_freezb",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_freezb.json"
+	},
+	
+	
+	{
+		"key": "py_jrskbs",
+		"name": "Py | JRS直播",
+		"type": 3,
+		"api": "py_jrskbs",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_jrskbs.json"
+	}, 
+	
+ 
+	{
+		"key": "py_libvio",
+		"name": "Py | LIbvio",
+		"type": 3,
+		"api": "py_libvio",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_libvio.json"
+	}, 
+	
+	{
+		"key": "py_bilibili",
+		"name": "Py | 哔哩",
+		"type": 3,
+		"api": "py_bilibili",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_bilibili.json"
+	}, {
+		"key": "py_bilivd",
+		"name": "Py | B站(带搜索)",
+		"type": 3,
+		"api": "py_bilivd",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_bilivd.json"
+	},{
+		"key": "py_3qu",
+		"name": "Py | 3QU",
+		"type": 3,
+		"api": "py_3qu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_3qu.json"
+	},
+	{
+		"key": "py_if101",
+		"name": "Py | if101(N)",
+		"type": 3,
+		"api": "py_if101",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_if101.json"
+	},
+	   
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        {
+      "key": "py_Alist",
+      "name": "Py | Alist合集",
+      "type": 3,
+      "api": "py_alist",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://tv.nxog.top/m/plugin/py_alist.json"
+        },
+        
+        
+        
+        
+        
+        {
+      "key": "py_Bilivd",
+      "name": "Py | Bilivd",
+      "type": 3,
+      "api": "py_bilivd",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://tv.nxog.top/m/plugin/py_bilivd.json"
+        }, {
+		"key": "py_cctv",
+		"name": "Py | 央视",
+		"type": 3,
+		"api": "py_cctv",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_cctv.json"
+	},{
+		"key": "py_cctv2",
+		"name": "Py | 央视2",
+		"type": 3,
+		"api": "py_cctv2",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_cctv2.json"
+	},{
+		"key": "py_czspp",
+		"name": "Py | 厂长",
+		"type": 3,
+		"api": "py_czspp",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_czspp.json"
+	}, {
+		"key": "py_star",
+		"name": "Py | 星光影视",
+		"type": 3,
+		"api": "py_star",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_star.json"
+	}, {
+		"key": "py_koudaiys",
+		"name": "Py | 口袋影视",
+		"type": 3,
+		"api": "py_koudaiys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_koudaiys.json"
+	}, 
+	{
+		"key": "py_gitcafe",
+		"name": "Py | 小纸条",
+		"type": 3,
+		"api": "py_gitcafe",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "http://tv.nxog.top/m/plugin/py_gitcafe.json"
+	}, {
+		"key": "py_voflix",
+		"name": "Py | Voflix",
+		"type": 3,
+		"api": "py_voflix",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_voflix.json"
+	}, {
+		"key": "py_gimytv",
+		"name": "Py | 剧迷",
+		"type": 3,
+		"api": "py_gimytv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_gimytv.json"
+	}, 
+	    {
+		"key": "py_genmov",
+		"name": "Py | 跟剧",
+		"type": 3,
+		"api": "py_genmov",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_genmov.json"
+	    },
+	    {
+		"key": "py_cokemv",
+		"name": "Py | COKE",
+		"type": 3,
+		"api": "py_cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_cokemv.json"
+	    },{
+		"key": "py_kuaikan",
+		"name": "Py | 快看影视",
+		"type": 3,
+		"api": "py_kuaikan",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_kuaikan.json"
+	    },
+	    {
+		"key": "py_ali",
+		"name": "Py | 阿里",
+		"type": 3,
+		"api": "py_ali",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://tv.nxog.top/m/plugin/py_ali.json"
+	    }, 
+		{
+			"key": "Yiso",
+			"name": "Py | 易搜(仅搜索)",
+			"type": 3,
+			"api": "py_yiso",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.nxog.top/m/plugin/py_yiso.json"
+		}, 
+		{
+			"key": "Pansou",
+			"name": "Py | 盘搜(仅搜索)",
+			"type": 3,
+			"api": "py_pansou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.nxog.top/m/plugin/py_pansou.json"
+	    },
+		{
+			"key": "Zhaozy",
+			"name": "Py | 找资源(仅搜索)",
+			"type": 3,
+			"api": "py_zhaozy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.nxog.top/m/plugin/py_zhaozy.json"
+	    },
+
+
+{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key" : "drpy_js_榜单荐片2","name" : "榜单荐片2[tv.nxog.top]","type" : 3,"api": "http://tv.nxog.top/m/js/drpy.js","ext": "http://tv.nxog.top/m/MaooXX/欧歌聚合搜索.js"}
+
+],
+
+
+
+
+//规则
+ "rules" : [
+
+{
+            "host" : "www.djuu.com",
+            "rule" : [
+                "mp4.djuu.com",
+                "m4a"]
+        },
+            {
+            "host" : "www.sharenice.net",
+            "rule" : [
+                "huoshan.com",
+                "/item/video/"],
+            "filter" : [
+            ]
+        },
+            {
+            "host" : "www.sharenice.net",
+            "rule" : [
+                "sovv.qianpailive.com",
+                "vid="],
+            "filter" : [
+            ]
+        },
+            {
+            "host" : "www.sharenice.net",
+            "rule" : [
+                "douyin.com",
+                "/play/"]
+        },
+            {
+            "host" : "m.ysxs8.vip",
+            "rule" : [
+                "ysting.ysxs8.vip:81",
+                "xmcdn.com"],
+            "filter" : [
+            ]
+        },
+            {
+            "host" : "hdmoli.com",
+            "rule" : [
+                ".m3u8"]
+        },
+            {
+            "host" : "https://api.live.bilibili.com",
+            "rule" : [
+                "bilivideo.com",
+                "/index.m3u8"],
+            "filter" : [
+                "data.bilibili.com/log/web",
+                "i0.hdslb.com/bfs/live/"]
+        },
+            {
+            "host" : "www.agemys.cc",
+            "rule" : [
+                "cdn-tos",
+                "obj/tos-cn"]
+        },
+            {
+            "host" : "www.fun4k.com",
+            "rule" : [
+                "https://hd.ijycnd.com/play",
+                "index.m3u8"]
+        },
+            {
+            "host" : "zjmiao.com",
+            "rule" : [
+                "play.videomiao.vip/API.php",
+                "time=",
+                "key=",
+                "path="]
+        }
+],
+
+"parses":[
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json聚合","type":3,"url":"Demo"},
+
+
+
+	
+{"name":"解析1","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"解析2","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
+{"name":"解析3","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"解析4","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"解析5","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"左岸","url":"https://jx.bozrc.com:4433/player/analysis.php?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"91","url":"http://91fanli.top/m3u8/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"全民1","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"365","url":"https://chaxun.Truechat365.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"m2090","url":"https://m2090.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"解析14","url":"https://go.yh0523.cn/y.cy?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"解析la","url":"https://api.jiexi.la/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"盘古","url":"https://www.pangujiexi.cc/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"全民","url":"https://jx.blbo.cc:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"云析","url":"https://jx.yparse.com/index.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"180","url":"https://jx.000180.top/jx/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"1717云","url":"https://www.1717yun.com/jx/ty.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"Json轮询","type":2,"url":"Sequence"}
+],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}

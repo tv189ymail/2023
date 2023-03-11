@@ -1,0 +1,51 @@
+
+{
+    "urls": [
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG01.json",
+            "name": "👁️‍🗨线路1"
+        },    
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG02.json",
+            "name": "👁️‍🗨️线路2"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG03.json",
+            "name": "👁️‍🗨️线路3"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG04.json",
+            "name": "👁️‍🗨️线路4"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG05.json",
+            "name": "👁️‍🗨️线路5"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG06.json",
+            "name": "👁️‍🗨️线路6"
+        },        
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG07.json",
+            "name": "👁️‍🗨️线路7"
+        },
+ {
+            "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+            "name": "👁️‍🗨️君不见"
+        },       
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
+            "name": "👁️‍🗨️君不见Pro"
+        },   
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+            "name": "👁️‍🗨️夜视界"
+        }
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "urls": [
+        {
+            "url": "http://120.53.102.254/tvb",
+            "name": "BD线路"
+        },
+        {
+            "url": "http://xn--4bra.live/%E7%8C%AB",
+            "name": "4K"
+        },
+        {
+            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+            "name": "星辰"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "月光宝盒Box线路"
+        },
+        {
+            "url": "http://miaotvs.cn/osc",
+            "name": "喵TV"
+        },
+       
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxyjt.json",
+            "name": "家庭GHPROXY线路",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json",
+            "name": "家庭7ED线路",
+            "time": "2022-08-26 02:00:00"
+        },
+
+{
+     "url": "http://120.53.102.254/tvb/gg",
+     "name": "GG线路"
+ },
+ {
+     "url": "http://120.53.102.254/tvb/beiyong",
+     "name": "YX线路"
+ },
+ {
+     "url": "http://120.53.102.254/tvb/bili",
+     "name": "BL线路"
+ },
+ {
+     "url": "http://120.53.102.254/tvb/ali",
+     "name": "AL线路"
+ },
+ {
+     "url": "http://120.53.102.254/tvb/by2",
+     "name": "TY线路"
+ },
+        {
+            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+            "name": "猫影视Pro( 823)"
+        },
+        {
+            "url": "https://box.okeybox.top/tv/uav0.json",
+            "name": "tvbox"
+        },
+        {
+            "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
+            "name": "个版自用",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxjt.json",
+            "name": "家庭GITEE线路",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://刚刚.live/猫.json",
+            "name": "刚刚走过线路",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "〔云星日记〕家庭版线路",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "〔云星日记〕哔哩套餐线路",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "〔云星日记〕阿里套餐线路",
+            "time": "2022-08-26 02:00:00"
+        },
+        
+     {
+         "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+         "name": "meowcf.json"
+     }
+    ]
+}

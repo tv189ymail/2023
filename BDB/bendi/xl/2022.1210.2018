@@ -1,0 +1,67 @@
+//此多仓接口列表为公众号【应用多多】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处，做人做事要凭良心
+//更新时间：2022/11/11 15:40
+{
+    "urls": [
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🔔点击选择下方线路"
+        },
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🏡应用多多家庭版"
+        },
+        {
+            "url": "https://yydsys.top/duo/txt/live.txt",
+            "name": "🏡电视合集"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63",
+            "name": "🚀肥猫线路"
+        },
+        {
+            "url": "http://shagua888168.3vdo.club",
+            "name": "🚀蓝魔线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🚀小苹果线路"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "🚀月光宝盒"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "🚀老刘备线路"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🚀吾爱线路"
+        },
+        {
+            "url": "http://8.210.220.114:8888/down/c9s9YQVDdqYw.json",
+            "name": "🚀星辰线路"
+        },
+        {
+            "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+            "name": "🚀潇洒线路"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🚀南风线路"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "🚀乱世线路"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀巧记线路"
+        },        
+        {
+            "url": "https://app.easybox.vip/dy",
+            "name": "🚀easybox线路"
+        }
+    ]
+}

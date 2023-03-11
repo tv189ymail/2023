@@ -8,21 +8,69 @@
 {"key" : "drpy_js_榜单荐片1","name" : "榜单荐片❤更新:12/26❤","type" : 3,"api": "http://tv.nxog.top/m/js/drpy.js","ext": "http://tv.nxog.top/m/MaooXX/drpy.js"},
 
 
-{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"http://tv.nxog.top/m/js/js/alistjar.json", "jar": "http://tv.nxog.top/m/js/m.jar;md5;906b337d4b4baef13292d004e5fd8f9b"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"http://tv.nxog.top/m/js/lib/alist.min.js","ext":"http://tv.nxog.top/m/js/js/alist.json"},
-{"key":"Yisou","name":"易搜┃(仅搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://tv.nxog.top/m/js/lib/token.txt"}, 
-{"key":"Alips","name":"盘搜索┃(仅搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://tv.nxog.top/m/js/lib/token.txt"},
-{"key":"Zhaozy","name":"找资源┃(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://tv.nxog.top/m/js/lib/token.txt"}, 
-{"key":"Upyunso","name":"云搜┃(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://tv.nxog.top/m/js/lib/token.txt"}, 
-{"key":"csp_Yiso","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://tv.nxog.top/m/js/lib/token.txt"},
-{"key": "Gitcafe","name":"📜小纸条〔SP〕","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tv.nxog.top/m/js/lib/token.txt"},
-{"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://tv.nxog.top/m/js/lib/token.txt"},
-{"key": "push_agent","name":"🍭推送〔阿里推送/磁力推送〕","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://tv.nxog.top/m/js/lib/token.txt"},
-{"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://tv.nxog.top/m/MaooXX/磁搜.json"},
-{"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力〔XP〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tv.nxog.top/m/MaooXX/音范丝磁力.json"},
-{"key": "csp_xBPQ_磁搜","name": "磁搜影视┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"导演\": \"导演：&&</p\",\"主演\": \"主演：&&</p\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\", \"年份\":\"1990-2022\",\"筛选\":\"1\"}"},
+{
+			"key": "csp_Alistaa",
+			"name": "🗂Alist网盘",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.nxog.top/m/a3/1.json"
+		},
+		
+{
+			"key": "csp_Alistbb",
+			"name": "🗂Alist网盘2",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.nxog.top/m/a3/2.json"
+		},
+		
+{
+			"key": "csp_Alistcc",
+			"name": "🗂Alist网盘3",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.nxog.top/m/a3/3.json"
+		},
+	
+{
+			"key": "csp_Alistdd",
+			"name": "🗂Alist网盘4",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://tv.nxog.top/m/a3/4.json"
+		},
+		
+		 {"key":"🅱️哔哩套餐〔1080〕","name":"🅱️哔哩套餐〔1080〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
- {"key":"Gitcafe2","name":"📜纸条┃云盘2","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json","jar":"http://我不是.肥猫.love:63/Jar/pandazt2.jar;md5;B965FFDF88F07652189D6416BA83164C"},
+  {"key":"csp_BBB","name":"🅱️哔哩套餐🥮","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.nxog.top/m/Bilibili/bili.php"},
+{"key": "Bili","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/哔哩.php"},
+{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/软件教程.php"}, 
+{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/演唱会.php"}, 
+{"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/戏曲.php"},
+{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/菜单.php"}, 
+{"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/球球.php"}, 
+{"key": "UP主","name": "🎮UP主","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/UP主.php"},
+{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/MTV.php"},    
+{"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/美食.php"},    
+{"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/学堂.php"}, 
+{"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/少儿教育.php"},
+{"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/小学课堂.php"},
+{"key": "初中课堂","name": "🅰️初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/初中课堂.php"},
+{"key": "高中课堂","name": "🅰️高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.nxog.top/m/Bilibili/高中课堂.php"},
+
+  
 
 
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
