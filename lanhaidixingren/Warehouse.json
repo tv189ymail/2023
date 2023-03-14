@@ -1,0 +1,39 @@
+﻿{
+    "urls": [
+
+        {
+            "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/1001.json",
+            "name": "🐻主线路"
+        },
+        {
+            "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/1002.json",
+            "name": "🦁全部"
+        },
+        {
+            "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/py.json",
+            "name": "🐮py线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
+            "name": "Js线路"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "潇洒线路(极多)"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🍆CH猫友"
+        },
+        {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "🚙影酷线"
+        },
+        {
+            "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/1004.json",
+            "name": "🚙测试"
+        }
+
+
+    ]
+}
