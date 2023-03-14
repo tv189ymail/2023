@@ -1,0 +1,36 @@
+﻿说明：本地包全部来自大佬们数据做的整合，为了就是方便小白们，如有冒犯请联系删除。
+
+
+接口配置:
+clan://dly/6/配置接口.json
+clan://dly/6/tang.json
+必须支持JS版本  clan://dly/6/js.json
+必须支持py版本 clan://dly/6/py/py.txt
+              clan://dly/6/xBPQ.json
+              clan://dly/6/XYQ.json
+              
+**********************************************
+
+clan://dly/6/18.json
+clan://dly/6/刚刚.json
+clan://dly/6/南风XC.json
+clan://dly/6/无名.json
+clan://dly/6/C线.json
+clan://dly/6/神器.json
+clan://dly/6/无忧.json
+
+
+**********************************************
+
+以下为本地仓库接口，包含以上所有接口,仅支持多仓版本,使用方法:复制下面链接到可视，点仓库后，先给仓库命名，后粘贴下面链接,点确定。
+
+本地仓：
+
+可视TV本地仓  clan://dly/6/api.json
+
+
+
+其中配置接口、js、tang、js、py......接口是纯本地，其它半本地。JAR本地化，JSON和直播也本地化了
+
+
+
