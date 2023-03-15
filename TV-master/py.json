@@ -1,0 +1,274 @@
+{
+   "sites":[
+      {
+         "key":"py_yixi",
+         "name":"🃏一席",
+         "type":3,
+         "api":"py_yixi",
+         "searchable":0,
+         "quickSearch":0,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_yixi.py"
+      },
+      {
+         "key":"py_libvio",
+         "name":"Libvio",
+         "type":3,
+         "api":"py_libvio",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_libvio.py"
+      },
+      {
+         "key":"py_qie",
+         "name":"QE体育",
+         "type":3,
+         "api":"py_qie",
+         "searchable":0,
+         "quickSearch":0,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_qie.py"
+      },
+      {
+         "key":"py_lezhu",
+         "name":"乐猪影视",
+         "type":3,
+         "api":"py_lezhu",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_lezhu.py"
+      },
+      {
+         "key":"py_star",
+         "name":"星光影视",
+         "type":3,
+         "api":"py_star",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_star.py"
+      },
+      {
+         "key":"py_kuyun77",
+         "name":"酷云77",
+         "type":3,
+         "api":"py_kunyu77",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_kunyu77.py"
+      },
+      {
+         "key":"py_3qu",
+         "name":"快播影视",
+         "type":3,
+         "api":"py_3qu",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_3qu.py"
+      },
+      {
+         "key":"py_zxzj",
+         "name":"在线之家",
+         "type":3,
+         "api":"py_zxzj",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_zxzj.py"
+      },
+      {
+         "key":"py_bili",
+         "name":"哔哩哔哩",
+         "type":3,
+         "api":"py_bilibili",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_bilibili.py"
+      },
+      {
+         "key":"py_zxzj",
+         "name":"在线之家",
+         "type":3,
+         "api":"py_zxzj",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_zxzj.py"
+      },
+      {
+         "key":"py_voflix",
+         "name":"Voflix",
+         "type":3,
+         "api":"py_voflix",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_voflix.py"
+      },
+      {
+         "key":"py_gimytv",
+         "name":"GimyTV",
+         "type":3,
+         "api":"py_gimytv",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_gimytv.py"
+      },
+      {
+         "key":"py_genmov",
+         "name":"跟剧",
+         "type":3,
+         "api":"py_genmov",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_genmov.py"
+      },
+      {
+         "key":"py_cokemv",
+         "name":"COKEMV",
+         "type":3,
+         "api":"py_cokemv",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_cokemv.py"
+      },
+      {
+         "key":"py_cctv_full",
+         "name":"央视栏目",
+         "type":3,
+         "api":"py_cctv_full",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_cctv_full.py"
+      },
+      {
+         "key":"py_czspp",
+         "name":"厂长资源",
+         "type":3,
+         "api":"py_czspp",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_czspp.py"
+      },
+      {
+         "key":"py_cyys",
+         "name":"创意影视",
+         "type":3,
+         "api":"py_cyys",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_cyys.py"
+      },
+      {
+         "key":"py_xmaomi",
+         "name":"猫咪影视",
+         "type":3,
+         "api":"py_xmaomi",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_xmaomi.py"
+      },
+      {
+         "key":"py_jubaibai",
+         "name":"剧白白",
+         "type":3,
+         "api":"py_jubaibai",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_jubaibai.py"
+      },
+      {
+         "key":"py_ikan",
+         "name":"爱看",
+         "type":3,
+         "api":"py_ikan",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_ikan.py"
+      },
+      {
+         "key":"py_555dy",
+         "name":"555影视",
+         "type":3,
+         "api":"py_555dy",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":"https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_555dy.py"
+      },
+      {
+        "key": "py_bilivd",
+        "name": "B站视频",
+        "type": 3,
+        "api": "py_bilivd",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_bilivd.py"
+     },
+    {
+       "key": "py_bilimd",
+       "name": "B站影视",
+       "type": 3,
+       "api": "py_bilimd",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_bilimd.py"
+   },
+   {
+      "key": "py_gitcafe",
+      "name": "小纸条",
+      "type": 3,
+      "api": "py_gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_gitcafe.py"
+     },
+     {
+      "key": "py_douyu",
+     "name": "斗鱼",
+     "type": 3,
+     "api": "py_douyu",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_douyu.py"
+     },
+     {
+     "key": "py_huya",
+     "name": "虎牙",
+     "type": 3,
+     "api": "py_huya",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "ext": "https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_huya.py"
+    },
+    {
+     "key": "push_agent",
+     "name": "🖥推送",
+     "type": 3,
+     "api": "py_ali",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 0,
+     "ext": "https://agit.ai/kvymin/TV/raw/branch/master/PyramidStore/py_ali.py"
+    }
+   ]
+}
